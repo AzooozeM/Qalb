@@ -45,13 +45,13 @@
 - **مصمّم للألعاب بأمان**: يتوقف تلقائيًا عند تشغيل الألعاب اللي فيها أنظمة مكافحة غش معروفة، وما يلمس اللعبة نفسها أبدًا. وتقدر تضيف أي لعبة لقائمة الإيقاف بنفسك.
 - **خفيف جدًا**: ما يستهلك المعالج وهو ينتظر.
 - **ثلاث ثيمات** (ScripX، داكن، فاتح)، وحجم خط قابل للتكبير، والواجهة بالعربي والإنجليزي.
-- **يتحدّث بضغطة**: من زر ↓ في البرنامج. كل تحديث موقّع رقميًا ويُتحقق منه قبل التثبيت.
+- **يشتغل مع ويندوز ويتحدّث تلقائيًا**: يبدأ مع الجهاز، ويثبّت التحديثات بنفسه وأنت مسكّر نافذته. كل تحديث موقّع رقميًا ويُتحقق منه قبل التثبيت، وتقدر توقف الخيارين من الإعدادات.
 
 ### إذا ظهر لك تحذير
 
 البرنامج جديد وغير موقّع بشهادة تجارية بعد، فويندوز ممكن يعرض «Windows protected your PC»: اضغط **More info** ثم **Run anyway**.
 
-بعض برامج الحماية تشك في أي برنامج يستخدم الاختصارات والحافظة. قلب لا يرسل أي بيانات، ولا يتصل بالإنترنت إلا إذا ضغطت «التحقق من وجود تحديثات».
+بعض برامج الحماية تشك في أي برنامج يستخدم الاختصارات والحافظة. قلب لا يرسل أي بيانات، واتصاله بالإنترنت بس للتحقق من التحديثات، وتقدر توقفه من خيار «التحديث تلقائيًا».
 
 ### الخصوصية
 
@@ -80,13 +80,13 @@ Qalb fixes the text and switches your keyboard to the right language so you can 
 - **Designed to be safe in games**: pauses itself when a game with a known anti-cheat system is running, and never touches the game itself. You can add any game to the pause list yourself.
 - **Very light**: uses no CPU while it waits.
 - **Three themes** (ScripX, Dark, Light), adjustable text size, Arabic and English interface.
-- **One-click updates** from the ↓ button. Every update is digitally signed and verified before it installs.
+- **Starts with Windows and updates itself**: installs updates on its own while its window is closed. Every update is digitally signed and verified first, and you can turn both off in the settings.
 
 ### If you see a warning
 
 The app is new and not commercially code-signed yet, so Windows may show "Windows protected your PC": click **More info**, then **Run anyway**.
 
-Some antivirus tools are suspicious of any app that uses global shortcuts and the clipboard. Qalb sends no data and only goes online when you press "Check for updates".
+Some antivirus tools are suspicious of any app that uses global shortcuts and the clipboard. Qalb sends no data and only goes online to check for updates, which you can turn off with "Update automatically".
 
 ### Privacy
 
