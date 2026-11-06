@@ -11,12 +11,12 @@
 
 <br>
 
-## [⬇️ تحميل قلب لويندوز](https://github.com/AzooozeM/qalb/releases/latest/download/Qalb.exe)
+## [⬇️ تحميل قلب لويندوز](https://github.com/AzooozeM/qalb/releases/latest/download/QalbSetup.exe)
 
-### [⬇️ Download Qalb for Windows](https://github.com/AzooozeM/qalb/releases/latest/download/Qalb.exe)
+### [⬇️ Download Qalb for Windows](https://github.com/AzooozeM/qalb/releases/latest/download/QalbSetup.exe)
 
-ملف واحد (أقل من 1MB) · بدون تثبيت · مجاني
-One file (under 1 MB) · No install · Free
+مثبّت صغير (أقل من 1MB) · بدون صلاحيات مسؤول · مجاني
+Small installer (under 1 MB) · No admin rights · Free
 
 <br>
 
@@ -30,8 +30,8 @@ One file (under 1 MB) · No install · Free
 
 ## طريقة الاستخدام
 
-1. **حمّل** الملف `Qalb.exe` من الزر فوق.
-2. **شغّله**. تظهر أيقونته جنب الساعة.
+1. **حمّل** `QalbSetup.exe` من الزر فوق.
+2. **ثبّته وشغّله**. تظهر أيقونته جنب الساعة.
 3. **إذا كتبت بلغة غلط**: حدّد النص (أو لا تحدد شيئًا لتصحيح السطر كله) واضغط <kbd>Alt</kbd> + <kbd>Y</kbd>.
 
 وبس. يصحّح النص، ويحوّل لغة الكيبورد للغة الصحيحة عشان تكمل كتابة.
@@ -64,8 +64,8 @@ One file (under 1 MB) · No install · Free
 
 ## How to use (English)
 
-1. **Download** `Qalb.exe` from the button above.
-2. **Run it.** Its icon appears next to the clock.
+1. **Download** `QalbSetup.exe` from the button above.
+2. **Install and run it.** Its icon appears next to the clock.
 3. **Typed in the wrong language?** Select the text (or nothing, to fix the whole line) and press <kbd>Alt</kbd> + <kbd>Y</kbd>.
 
 If Windows shows "Windows protected your PC", click **More info → Run anyway** (the app isn't commercially code-signed yet).
