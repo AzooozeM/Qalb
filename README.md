@@ -7,7 +7,7 @@
 **كتبت وأنت ناسي لغة الكيبورد؟ اضغط اختصار واحد ويتصحّح النص.**
 **Typed with the wrong keyboard language? One shortcut fixes it.**
 
-`hkh hpf;` ← <kbd>Alt</kbd> + <kbd>Y</kbd> ← **انا احبك**
+**انا احبك** ← <kbd>Alt</kbd> + <kbd>Y</kbd> ← `hkh hpf;`
 
 <br>
 
